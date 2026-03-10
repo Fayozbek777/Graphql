@@ -1,0 +1,148 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "iPhone 15 Pro Max",
+      "price": 1299,
+      "category": "smartphone",
+      "description": "Apple’ning eng yangi flagmani — kuchli A17 Pro chip va 48MP kamera bilan.",
+      "images": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-15-pro-max-1.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Samsung Galaxy S24 Ultra",
+      "price": "1140",
+      "category": "smartphone",
+      "description": "200MP kamera, Snapdragon 8 Gen 3 chipi va S-Pen qo‘llab-quvvatlovi bilan.",
+      "images": "https://media.gettyimages.com/id/1477492545/photo/iphone-13-mini-pink-back-side.jpg?s=612x612&w=gi&k=20&c=cc-RyB-2tZMIdnwQ1f5fX-rKTVBCyVx_WDS0JopiWj0="
+    },
+    {
+      "id": "3",
+      "title": "Google Pixel 8 Pro",
+      "price": 999,
+      "category": "smartphone",
+      "description": "AI yordamida suratga olish va Tensor G3 chipi bilan yuqori unumdorlik.",
+      "images": "https://mercurycomputerslimited.com/wp-content/uploads/2024/04/Google-Pixel-8-Pro.webp"
+    },
+    {
+      "id": "4",
+      "title": "Xiaomi 14 Ultra",
+      "price": 1099,
+      "category": "smartphone",
+      "description": "Leica kamera tizimi va Snapdragon 8 Gen 3 chipi bilan.",
+      "images": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-14-ultra-1.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Huawei P60 Pro",
+      "price": 899,
+      "category": "smartphone",
+      "description": "50MP RYYB sensorli kamera va ajoyib dizayn bilan.",
+      "images": "https://fdn2.gsmarena.com/vv/pics/huawei/huawei-p60-pro-1.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Asus ROG Phone 8",
+      "price": 1099,
+      "category": "smartphone",
+      "description": "Gamerlar uchun maxsus telefon — 165Hz displey va sovutish tizimi bilan.",
+      "images": "https://fdn2.gsmarena.com/vv/pics/asus/asus-rog-phone-8-1.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Sony Xperia 1 V",
+      "price": 1199,
+      "category": "smartphone",
+      "description": "Pro darajadagi kamera imkoniyatlari bilan kino olishga mo‘ljallangan telefon.",
+      "images": "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-1-v-1.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Realme GT 6 Pro",
+      "price": 749,
+      "category": "smartphone",
+      "description": "Snapdragon 8s Gen 3 va 144Hz OLED displey bilan arzon flagman killer.",
+      "images": "https://cdn.mediablog.mediapark.uz/corecms/post-thumbnails/01JHHMJWQBWQVCMT5KC3KR40GD.webp"
+    },
+    {
+      "id": "10",
+      "title": "Vivo X100 Pro",
+      "price": 999,
+      "category": "smartphone",
+      "description": "Zeiss optikasi va Dimensity 9300 chipi bilan surat sifati yuqori.",
+      "images": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x100-pro-1.jpg"
+    },
+    {
+      "id": "11",
+      "title": "iPhone 14 Pro Max",
+      "price": 1099,
+      "category": "smartphone",
+      "description": "A16 Bionic chip va Dynamic Island interfeysi bilan mashhur model.",
+      "images": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-14-pro-max-1.jpg"
+    },
+    {
+      "id": "12",
+      "title": "Samsung Galaxy Z Fold5",
+      "price": 1799,
+      "category": "smartphone",
+      "description": "Katlanadigan ekranli telefon — multitasking uchun mukammal yechim.",
+      "images": "https://cdn.mediablog.mediapark.uz/corecms/post-thumbnails/01JHHMJWQBWQVCMT5KC3KR40GD.webp"
+    },
+    {
+      "id": "13",
+      "title": "Nothing Phone 2",
+      "price": "750",
+      "category": "smartphone",
+      "description": "Yorqin dizayn va LED Glyph tizimi bilan o‘ziga xos smartfon.",
+      "images": "https://cdn.mediablog.mediapark.uz/corecms/post-thumbnails/01JHHMJWQBWQVCMT5KC3KR40GD.webp"
+    },
+    {
+      "id": "14",
+      "title": "Xiaomi Redmi Note 13 Pro+",
+      "price": 499,
+      "category": "smartphone",
+      "description": "200MP kamera va 120W tez quvvatlash bilan o‘rta segmentda lider.",
+      "images": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-13-pro-plus-1.jpg"
+    },
+    {
+      "id": "15",
+      "title": "Poco F6 Pro",
+      "price": 599,
+      "category": "smartphone",
+      "description": "Snapdragon 8 Gen 2 va 120Hz AMOLED ekrani bilan kuchli o‘yin telefoni.",
+      "images": "https://cdn.mediablog.mediapark.uz/corecms/post-thumbnails/01JHHMJWQBWQVCMT5KC3KR40GD.webp"
+    },
+    {
+      "id": "16",
+      "title": "Oppo Find X7 Ultra",
+      "price": 1149,
+      "category": "smartphone",
+      "description": "Sony LYT-900 sensorli 1 dyuymli kamera bilan professional darajadagi suratlar.",
+      "images": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-find-x7-ultra-1.jpg"
+    },
+    {
+      "id": "17",
+      "title": "Honor Magic6 Pro",
+      "price": 999,
+      "category": "smartphone",
+      "description": "Snapdragon 8 Gen 3 chipi va 180MP telefoto kamera bilan ajoyib tanlov.",
+      "images": "https://fdn2.gsmarena.com/vv/pics/honor/honor-magic6-pro-1.jpg"
+    },
+    {
+      "id": "18",
+      "title": "Motorola Edge 50 Ultra",
+      "price": 899,
+      "category": "smartphone",
+      "description": "Snapdragon 8s Gen 3 va 125W tez quvvatlash texnologiyasi bilan.",
+      "images": "https://cdn.mediablog.mediapark.uz/corecms/post-thumbnails/01JHHMJWQBWQVCMT5KC3KR40GD.webp"
+    },
+    {
+      "id": "b6e3",
+      "title": "i phone 17 pro max ultra",
+      "price": "123",
+      "description": "whats",
+      "category": "spartphone",
+      "images": "https://cdn.mediablog.mediapark.uz/corecms/post-thumbnails/01JHHMJWQBWQVCMT5KC3KR40GD.webp"
+    }
+  ]
+}
