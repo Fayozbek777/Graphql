@@ -1,4 +1,3 @@
-// Products.jsx — без Tailwind, без классов, без стилей
 import { gql, useMutation, useQuery } from "@apollo/client";
 import React, { useState } from "react";
 import EditModal from "./EditModal";
